@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "svge",
+  "description": "Online SVG Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/e-jigsaw/svge.git"
+  },
+  "author": "Takaya Kobayashi (https://kbys.tk/y)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-jigsaw/svge/issues"
+  },
+  "homepage": "https://github.com/e-jigsaw/svge#readme"
+}
